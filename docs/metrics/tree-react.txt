@@ -1,0 +1,31 @@
+Metric: Project structure (tree)
+Project: frontend-react
+Path: frontend-react/src
+Command:
+tree -L 3 src
+
+Output:
+src
+├── App.tsx
+├── api
+│   ├── http.ts
+│   └── tasksApi.ts
+├── assets
+│   └── react.svg
+├── components
+│   └── ConfirmDialog.tsx
+├── config.ts
+├── hooks
+│   └── useDebounce.ts
+├── index.css
+├── main.tsx
+├── pages
+│   ├── TaskCreatePage.tsx
+│   ├── TaskEditPage.tsx
+│   └── TasksPage.tsx
+├── types
+│   └── task.ts
+└── utils
+    └── formatDate.ts
+
+Date: 2026-01-31

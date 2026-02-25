@@ -1,0 +1,10 @@
+Metric: Number of source files
+Project: frontend-react
+Path: frontend-react/src
+Command:
+find . -type f \( -name "*.ts" -o -name "*.tsx" \) | wc -l
+
+Result:
+12
+
+Date: 2026-01-31

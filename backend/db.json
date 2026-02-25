@@ -1,0 +1,74 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "title": "Design application architecture",
+      "status": "done",
+      "priority": "high",
+      "createdAt": "2026-01-20T10:15:00.000Z"
+    },
+    {
+      "id": "2",
+      "title": "Implement task list view",
+      "status": "done",
+      "priority": "medium",
+      "createdAt": "2026-01-21T08:40:00.000Z"
+    },
+    {
+      "id": "3",
+      "title": "Add URL-based filters",
+      "status": "in_progress",
+      "priority": "high",
+      "createdAt": "2026-01-22T14:30:00.000Z"
+    },
+    {
+      "id": "4",
+      "title": "Implement create task form",
+      "status": "done",
+      "priority": "medium",
+      "createdAt": "2026-01-23T09:10:00.000Z"
+    },
+    {
+      "id": "5",
+      "title": "Implement edit task functionality",
+      "status": "in_progress",
+      "priority": "medium",
+      "createdAt": "2026-01-24T11:50:00.000Z"
+    },
+    {
+      "id": "6",
+      "title": "Add delete confirmation modal",
+      "status": "todo",
+      "priority": "low",
+      "createdAt": "2026-01-25T16:05:00.000Z"
+    },
+    {
+      "id": "7",
+      "title": "Client-side search implementation",
+      "status": "done",
+      "priority": "high",
+      "createdAt": "2026-01-26T13:25:00.000Z"
+    },
+    {
+      "id": "8",
+      "title": "Compare React and Vue implementations",
+      "status": "in_progress",
+      "priority": "high",
+      "createdAt": "2026-01-27T17:45:00.000Z"
+    },
+    {
+      "id": "9",
+      "title": "Prepare screenshots for thesis",
+      "status": "todo",
+      "priority": "medium",
+      "createdAt": "2026-01-28T09:00:00.000Z"
+    },
+    {
+      "id": "10",
+      "title": "Write implementation comparison chapter",
+      "status": "todo",
+      "priority": "high",
+      "createdAt": "2026-01-29T18:20:00.000Z"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+Metric: Number of source files
+Project: frontend-vue
+Path: frontend-vue/src
+Command:
+find . -type f \( -name "*.ts" -o -name "*.vue" \) | wc -l
+
+Result:
+12
+
+Date: 2026-01-31

@@ -1,0 +1,31 @@
+Metric: Project structure (tree)
+Project: frontend-vue
+Path: frontend-vue/src
+Command:
+tree -L 3 src
+
+Output:
+src
+├── App.vue
+├── api
+│   ├── http.ts
+│   └── tasksApi.ts
+├── assets
+│   └── vue.svg
+├── components
+│   └── ConfirmDialog.vue
+├── config.ts
+├── main.ts
+├── pages
+│   ├── TaskCreatePage.vue
+│   ├── TaskEditPage.vue
+│   └── TasksPage.vue
+├── router
+│   └── index.ts
+├── style.css
+├── types
+│   └── task.ts
+└── utils
+    └── formatDate.ts
+
+Date: 2026-01-31
