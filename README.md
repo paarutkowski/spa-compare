@@ -215,6 +215,7 @@ Projekt stworzony na potrzeby pracy inżynierskiej.
 
 ## 👤 Autor
 
+**Patryk Rutkowski**  
 Projekt wykonany w ramach pracy inżynierskiej na kierunku Informatyka.
 
 ---
